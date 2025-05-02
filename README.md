@@ -9,5 +9,5 @@
 + first
 - hey
 * hey
-  [! NITE]
-  [! IMP]
+  [!NITE]
+  [!IMP]
